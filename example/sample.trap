@@ -1,0 +1,8 @@
+test-srv.localdomain
+UDP: [10.0.1.1]:2985
+DISMAN-EVENT-MIB::sysUpTimeInstance 45:0:29:27.08
+SNMPv2-MIB::snmpTrapOID.0 NETSCREEN-TRAP-MIB::netscreenTrapSw
+NETSCREEN-TRAP-MIB::netscreenTrapType.0 admin
+NETSCREEN-TRAP-MIB::netscreenTrapDesc.0 2009-06-15 19:05:23 [Root]system-critical-00027: Multiple login failures occurred for user root from IP address 10.0.1.2:4377
+SNMP-COMMUNITY-MIB::snmpTrapAddress.0 10.0.1.1
+SNMP-COMMUNITY-MIB::snmpTrapCommunity.0 "test"
